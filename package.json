@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@faker-js/faker": "^8.0.2",
+    "install": "^0.13.0",
+    "npm": "^9.8.0"
+  },
+  "dependencies": {
+    "uuid": "^9.0.0"
+  }
+}
