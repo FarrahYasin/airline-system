@@ -4,7 +4,7 @@
 ![UML_Airline](UML_Airline.png)
 
 >## outputs:
----
+
 ><img width="404" alt="image" src="https://github.com/FarrahYasin/airline-system/assets/117269271/2a025ae3-00e7-4ad1-be51-9d6d9351ca2a">
 
 ---
